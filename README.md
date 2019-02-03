@@ -18,7 +18,7 @@ This project requires Python to be installed on your machine.
 2. Launch server. In a terminal, check the version of Python you have: python -V. Spin up the server with python -m SimpleHTTPServer 8000 or python -m http.server 8000.
 3. Visit http://localhost:8000.
 
-###Technologies used
+### Technologies used
 - ES6 JavaScript
 - Leaflet.js
 - Mapbox
